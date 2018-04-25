@@ -5,11 +5,11 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 ## Conteúdo
 
 - [Blogs](#Blogs)
-  - [Português](#portugues)
-  - [Inglês](#ingles)
-- [Recursos](#recursos)
-  - [Podcast](#pod-cast)
-  - [Youtube](#you-tube)
+  - [Português](#Português)
+  - [Inglês](#Inglês)
+- [Recursos](#Recursos)
+  - [Podcast](#Podcast)
+  - [Youtube](#Youtube)
 
 ## Blogs
 
