@@ -8,7 +8,7 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
   - [Português](#português)
   - [Inglês](#inglês)
 - [Forums](#forums)
-  - [Inglês](#inglês)
+  - [Inglês](#inglês-1)
 - [Recursos](#recursos)
   - [Podcast](#podcast)
   - [Youtube](#youtube)
