@@ -4,12 +4,12 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 
 ## Conteúdo
 
-- [Blogs](#Blogs)
-  - [Português](#Português)
-  - [Inglês](#Inglês)
-- [Recursos](#Recursos)
-  - [Podcast](#Podcast)
-  - [Youtube](#Youtube)
+- [Blogs](#blogs)
+  - [Português](#português)
+  - [Inglês](#inglês)
+- [Recursos](#recursos)
+  - [Podcast](#podcast)
+  - [Youtube](#youtube)
 
 ## Blogs
 
