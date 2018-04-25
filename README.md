@@ -7,12 +7,17 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [Blogs](#blogs)
   - [Português](#português)
   - [Inglês](#inglês)
-- [Forums](#forums)
+- [Livros](#livros)
   - [Inglês](#inglês-1)
+- [Forums](#forums)
+  - [Inglês](#inglês-2)
 - [Recursos](#recursos)
   - [Podcast](#podcast)
   - [Youtube](#youtube)
   - [Assets](#assets)
+  - [Ferramentas](#ferramentas)
+  - [Engines](#engines)
+  - [Frameworks](#frameworks)
 
 ## Blogs
 
@@ -22,6 +27,11 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 
 ### Inglês
 - [Gama Sutra](http://www.gamasutra.com)
+
+## Livros
+
+### Inglês
+- [Game Programming Patterns](http://gameprogrammingpatterns.com)
 
 ## Forums
 
@@ -38,15 +48,34 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 ### Youtube
 - [Industria de Jogos](https://www.youtube.com/channel/UCwTIfd7zrjlPxzEU_NlqznA)
 - [Design Games Brasil](https://www.youtube.com/channel/UCnGRaPnWpHnM86FFGv4DCpw)
-- [Game Maker's Toolkit](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw)
+- [Ai and Games](https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q)
 - [Ahoy](https://www.youtube.com/channel/UCE1jXbVAGJQEORz9nZqb5bQ)
+- [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
+- [Game Maker's Toolkit](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw)
 - [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 - [Indigo Gaming](https://www.youtube.com/channel/UCTRohxutThBffdcP3H6O0Zg)
-- [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)
-- [Ai and Games](https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q)
-- [The coding Train](https://www.youtube.com/user/shiffman/featured)
+- [The Coding Train](https://www.youtube.com/user/shiffman/featured)
 
 ### Assets
 - [Open Game Art](https://opengameart.org)
 - [The Noun Project](https://thenounproject.com)
 - [Free Sound Datasets](https://datasets.freesound.org)
+
+### Ferramentas
+- [Aseprite](https://www.aseprite.org)
+- [Tiled](https://www.mapeditor.org)
+
+### Engines
+- [CryEngine](https://www.cryengine.com)
+- [GameMaker](https://www.yoyogames.com/gamemaker)
+- [Godot](https://godotengine.org)
+- [Unity](https://unity3d.com)
+- [Unreal](https://www.unrealengine.com)
+
+### Frameworks
+- [GGEZ](http://ggez.rs)
+- [LibGDX](https://libgdx.badlogicgames.com)
+- [Love2D](https://love2d.org)
+- [MonoGame](http://www.monogame.net)
+- [Phaser](https://phaser.io)
+
