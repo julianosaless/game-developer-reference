@@ -32,6 +32,7 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 
 ### Inglês
 - [Game Programming Patterns](http://gameprogrammingpatterns.com)
+- [Theory of Fun for Game Design](https://www.theoryoffun.com)
 
 ## Forums
 
