@@ -45,6 +45,7 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 ### Podcast
 - [Podquest](http://www.podquest.com.br)
 - [GGDevcast](https://ggdevcast.com.br/)
+- [Jogabilidade](https://jogabilida.de/category/podcasts)
 
 ### Youtube
 - [Industria de Jogos](https://www.youtube.com/channel/UCwTIfd7zrjlPxzEU_NlqznA)
