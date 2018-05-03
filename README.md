@@ -63,10 +63,11 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [The Noun Project](https://thenounproject.com)
 - [Free Sound Datasets](https://datasets.freesound.org)
 
-### 
-mentas
+### Ferramentas
 - [Aseprite](https://www.aseprite.org)
 - [Tiled](https://www.mapeditor.org)
+- [Spriter](https://brashmonkey.com)
+
 
 ### Engines
 - [CryEngine](https://www.cryengine.com)
@@ -81,5 +82,4 @@ mentas
 - [Love2D](https://love2d.org)
 - [MonoGame](http://www.monogame.net)
 - [Phaser](https://phaser.io)
-- [Spriter](https://brashmonkey.com)
 
