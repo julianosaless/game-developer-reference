@@ -63,7 +63,8 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [The Noun Project](https://thenounproject.com)
 - [Free Sound Datasets](https://datasets.freesound.org)
 
-### Ferramentas
+### 
+mentas
 - [Aseprite](https://www.aseprite.org)
 - [Tiled](https://www.mapeditor.org)
 
@@ -80,4 +81,5 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [Love2D](https://love2d.org)
 - [MonoGame](http://www.monogame.net)
 - [Phaser](https://phaser.io)
+- [Spriter](https://brashmonkey.com)
 
