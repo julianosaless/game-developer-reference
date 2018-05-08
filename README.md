@@ -24,6 +24,7 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 ### Português
 - [Fabrica de jogos](http://www.fabricadejogos.net)
 - [Escola Brasileira de Games](http://escolabrasileiradegames.com.br)
+- [Produção de Jogos](https://producaodejogos.com)
 
 ### Inglês
 - [Gama Sutra](http://www.gamasutra.com)
