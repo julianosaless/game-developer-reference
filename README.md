@@ -49,6 +49,7 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [Jogabilidade](https://jogabilida.de/category/podcasts)
 
 ### Youtube
+- [Produção de Jogos](https://www.youtube.com/channel/UC31_lzgVcbcBOLo5QD7QBUA)
 - [Industria de Jogos](https://www.youtube.com/channel/UCwTIfd7zrjlPxzEU_NlqznA)
 - [Design Games Brasil](https://www.youtube.com/channel/UCnGRaPnWpHnM86FFGv4DCpw)
 - [Ai and Games](https://www.youtube.com/channel/UCov_51F0betb6hJ6Gumxg3Q)
