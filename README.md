@@ -64,6 +64,7 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [Open Game Art](https://opengameart.org)
 - [The Noun Project](https://thenounproject.com)
 - [Free Sound Datasets](https://datasets.freesound.org)
+- [Vaca Roxa](https://bakudas.itch.io)
 
 ### Ferramentas
 - [Aseprite](https://www.aseprite.org)
