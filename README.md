@@ -62,9 +62,10 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [The Coding Train](https://www.youtube.com/user/shiffman/featured)
 
 ### Assets
+- [Free Sound Datasets](https://datasets.freesound.org)
+- [Game Icons](https://game-icons.net)
 - [Open Game Art](https://opengameart.org)
 - [The Noun Project](https://thenounproject.com)
-- [Free Sound Datasets](https://datasets.freesound.org)
 - [Vaca Roxa](https://bakudas.itch.io)
 
 ### Ferramentas
@@ -73,8 +74,8 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [Spriter](https://brashmonkey.com)
 - [DragonBones](http://dragonbones.com)
 
-
 ### Engines
+- [Armory](https://armory3d.org)
 - [CryEngine](https://www.cryengine.com)
 - [GameMaker](https://www.yoyogames.com/gamemaker)
 - [Godot](https://godotengine.org)
