@@ -45,9 +45,11 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 ## Recursos
 
 ### Podcast
+
 - [Podquest](http://www.podquest.com.br)
 - [GGDevcast](https://ggdevcast.com.br/)
 - [Jogabilidade](https://jogabilida.de/category/podcasts)
+
 
 ### Youtube
 - [Produção de Jogos](https://www.youtube.com/channel/UC31_lzgVcbcBOLo5QD7QBUA)
@@ -78,10 +80,12 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [Armory](https://armory3d.org)
 - [Construct](https://www.scirra.com)
 - [CryEngine](https://www.cryengine.com)
+- [Defold](https://www.defold.com/)
 - [GameMaker](https://www.yoyogames.com/gamemaker)
 - [Godot](https://godotengine.org)
 - [Unity](https://unity3d.com)
 - [Unreal](https://www.unrealengine.com)
+- [Stencyl](http://www.stencyl.com/)
 
 ### Frameworks
 - [GGEZ](http://ggez.rs)
