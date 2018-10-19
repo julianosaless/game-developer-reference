@@ -63,7 +63,7 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [Indigo Gaming](https://www.youtube.com/channel/UCTRohxutThBffdcP3H6O0Zg)
 - [The Coding Train](https://www.youtube.com/user/shiffman/featured)
 - [Extra Credits](https://www.youtube.com/user/ExtraCreditz/videos)
-
+- [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g)
 ### Assets
 - [Free Sound Datasets](https://datasets.freesound.org)
 - [Game Icons](https://game-icons.net)
