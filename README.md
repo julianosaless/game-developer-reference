@@ -49,7 +49,7 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [Podquest](http://www.podquest.com.br)
 - [GGDevcast](https://ggdevcast.com.br/)
 - [Jogabilidade](https://jogabilida.de/category/podcasts)
-
+- [The Debug Log](http://thedebuglog.com/)
 
 ### Youtube
 - [Produção de Jogos](https://www.youtube.com/channel/UC31_lzgVcbcBOLo5QD7QBUA)
