@@ -45,9 +45,11 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 ## Recursos
 
 ### Podcast
+
 - [Podquest](http://www.podquest.com.br)
 - [GGDevcast](https://ggdevcast.com.br/)
 - [Jogabilidade](https://jogabilida.de/category/podcasts)
+- [The Debug Log](http://thedebuglog.com/)
 
 ### Youtube
 - [Produção de Jogos](https://www.youtube.com/channel/UC31_lzgVcbcBOLo5QD7QBUA)
@@ -60,7 +62,8 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 - [Indigo Gaming](https://www.youtube.com/channel/UCTRohxutThBffdcP3H6O0Zg)
 - [The Coding Train](https://www.youtube.com/user/shiffman/featured)
-
+- [Extra Credits](https://www.youtube.com/user/ExtraCreditz/videos)
+- [Blackthornprod](https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g)
 ### Assets
 - [Free Sound Datasets](https://datasets.freesound.org)
 - [Game Icons](https://game-icons.net)
@@ -78,10 +81,12 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [Armory](https://armory3d.org)
 - [Construct](https://www.scirra.com)
 - [CryEngine](https://www.cryengine.com)
+- [Defold](https://www.defold.com/)
 - [GameMaker](https://www.yoyogames.com/gamemaker)
 - [Godot](https://godotengine.org)
 - [Unity](https://unity3d.com)
 - [Unreal](https://www.unrealengine.com)
+- [Stencyl](http://www.stencyl.com/)
 
 ### Frameworks
 - [GGEZ](http://ggez.rs)
