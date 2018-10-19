@@ -62,6 +62,7 @@ Compilação de informações destinada a quem trabalha ou quer iniciar no desen
 - [GDC](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ)
 - [Indigo Gaming](https://www.youtube.com/channel/UCTRohxutThBffdcP3H6O0Zg)
 - [The Coding Train](https://www.youtube.com/user/shiffman/featured)
+- [Extra Credits](https://www.youtube.com/user/ExtraCreditz/videos)
 
 ### Assets
 - [Free Sound Datasets](https://datasets.freesound.org)
